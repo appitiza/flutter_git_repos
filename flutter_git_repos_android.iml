@@ -12,6 +12,11 @@
         <option name="PROGUARD_LOGS_FOLDER_RELATIVE_PATH" value="/android/proguard_logs" />
       </configuration>
     </facet>
+    <facet type="android-gradle" name="Android-Gradle">
+      <configuration>
+        <option name="GRADLE_PROJECT_PATH" />
+      </configuration>
+    </facet>
   </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
